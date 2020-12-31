@@ -1,7 +1,7 @@
-# PostgreSQL PubSub with Elixir
+# PostgreSQL PubSub with Triggers
 
 ## Reference Video
-[https://youtu.be/i30D_zTVJsc](https://youtu.be/i30D_zTVJsc)
+[https://youtu.be/2-7V0tjPoZk](https://youtu.be/2-7V0tjPoZk)
 
 ## Learn more
 

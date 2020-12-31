@@ -1,7 +1,7 @@
 defmodule PubsubDemo.PgListener do
   use GenServer
   alias Postgrex.Notifications
-  @channel "test_channel"
+  @channel "chat_message_deleted"
 
   defstruct [:ref, :pid]
 
